@@ -66,7 +66,7 @@ int main(int argc, char* argv[]) {
 		}
 	}
 
-	cout << "Starting uScan 1.0 at " << getDate() << " SE Asia Standard Time" << endl;
+	cout << "Starting uScan 2.0 at " << getDate() << " SE Asia Standard Time" << endl;
 	cout << "uScan scan report for " << ip << endl;
 	cout << "Host is up" << endl << endl;
 	
